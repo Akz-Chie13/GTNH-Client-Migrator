@@ -2,13 +2,11 @@
 
 A lightweight BAT tool for Prism Launcher. Migrate GTNH client settings and data to a newer instance.
 
-[下载 GTNH-Client-Migrate.bat](https://github.com/Akz-Chie13/GTNH-Client-Migrator/raw/refs/heads/main/GTNH-Client-Migrate.bat)
-
-适用于 Windows 上的 Prism Launcher，使用系统自带的 Windows PowerShell。已实测 GTNH 2.9.0 → 2.9.1。新旧实例需要放在同一个 Prism 实例目录里。
+适用于 Windows 上的 Prism Launcher，使用系统自带的 Windows PowerShell。新旧实例需要放在同一个 Prism 实例目录里。
 
 ## 使用方法
 
-1. 在 Prism 中导入新版 GTNH，保留旧实例，然后关闭 Minecraft。
+1. 在 Prism 中导入新版 GTNH，保留旧实例。
 2. 双击下载的 BAT，选择「预览并迁移」。从自动找到的目录中选择一项，也可以粘贴 Prism 根目录或实例目录。
 3. 依次选择旧实例、新实例，检查预览。确认后输入 `Y` 迁移。
 
