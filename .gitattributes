@@ -1,0 +1,2 @@
+# Preserve the downloadable Windows batch file byte for byte.
+*.bat -text
